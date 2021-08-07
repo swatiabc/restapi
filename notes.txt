@@ -1,0 +1,4 @@
+cd tutorial
+python manage.py runserver
+links: http://127.0.0.1:8000/snippets/genericlist (post,get)
+links: http://127.0.0.1:8000/snippets/genericdetail/5  (get,put,delete)
